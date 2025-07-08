@@ -1,9 +1,6 @@
 name: DIY
 
 on:
-  push:
-    branches:
-      - dev
   workflow_dispatch: {}
   schedule:
     - cron: "0 1 * * *"
