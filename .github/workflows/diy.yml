@@ -15,24 +15,15 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-    - name: Sync upstream changes
-      id: sync
-      uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
+    - name: Sync from Upstream
+      uses: repo-sync/github-sync@v2
       with:
-        target_sync_branch: main
-        # REQUIRED 'target_repo_token' exactly like this!
-        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-        upstream_sync_branch: main
-        upstream_sync_repo: ccfddl/ccf-deadlines
-    - name: New commits found
-      if: steps.sync.outputs.has_new_commits == 'true'
-      run: echo "New commits were found to sync."
-    - name: No new commits
-      if: steps.sync.outputs.has_new_commits == 'false'
-      run: echo "There were no new commits."
-    - name: Show value of 'has_new_commits'
-      run: echo ${{ steps.sync.outputs.has_new_commits }}
-      
+        source_repo: ccfddl/ccf-deadlines
+        mount_workspace: true
+        source_branch: main
+        destination_branch: main
+        merge_method: rebase
+        github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Setup Node.js environment
       uses: actions/setup-node@main
       with:
@@ -59,32 +50,29 @@ jobs:
       run: |
         python cli/ccfddl/convert_to_ical_diy.py --conf ${{ vars.CONFERENCES_NAME}}
         # generate deadlines_diy_en.ics
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+    
+    - name: Fetch all branches
+      run: git fetch origin
 
     - name: Checkout or create release branch
       run: |
-        # Stash any untracked files to avoid conflicts
-        git add .
-        git stash --include-untracked || true
-        
         # Check if release branch exists remotely
         if git ls-remote --heads origin release | grep -q release; then
           # Branch exists, just checkout
           git checkout release
-          # Apply stashed changes if any
-          git stash pop || true
         else
           # Create new empty orphan branch
           git checkout --orphan release
           git rm -rf .
-          # Apply stashed changes if any
-          git stash pop || true
         fi
-
     - name: Update iCal file
       run: |
         # Copy the generated iCal file
         git add *.ics
-
     - name: Commit and Push
       run: |
         git diff-index --quiet HEAD || git commit -m "Update deadlines_diy_en.ics"
