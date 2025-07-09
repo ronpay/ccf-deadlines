@@ -60,6 +60,9 @@ jobs:
 
     - name: Checkout or create release branch
       run: |
+        # Backup the generated iCal file
+        cp deadlines_diy_en.ics /tmp/deadlines_diy_en.ics
+        
         # Check if release branch exists remotely
         if git ls-remote --heads origin release | grep -q release; then
           # Branch exists, just checkout
@@ -69,9 +72,12 @@ jobs:
           git checkout --orphan release
           git rm -rf .
         fi
+        
+        # Restore the iCal file
+        cp /tmp/deadlines_diy_en.ics deadlines_diy_en.ics
     - name: Update iCal file
       run: |
-        # Copy the generated iCal file
+        # Add the generated iCal file
         git add *.ics
     - name: Commit and Push
       run: |
