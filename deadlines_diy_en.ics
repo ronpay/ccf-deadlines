@@ -14,8 +14,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2021 Deadline
 DTSTART;TZID="UTC-12:00":20210208T235959
 DTEND;TZID="UTC-12:00":20210209T000059
-DTSTAMP:20250707T152211Z
-UID:93db001c-c0f4-4eb0-bf3e-51cadfada41f
+DTSTAMP:20250709T152405Z
+UID:b92c91a9-4fec-4029-9a21-40a40f980fb9
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  14-18\, 2021\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2021-
  02-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF A\
@@ -28,8 +28,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2022 Deadline
 DTSTART;TZID="UTC-12:00":20220210T235959
 DTEND;TZID="UTC-12:00":20220211T000059
-DTSTAMP:20250707T152211Z
-UID:8ee7a587-ba40-4143-bdc2-2deac02a2576
+DTSTAMP:20250709T152405Z
+UID:d023b578-2aa5-4012-8872-04c19ea24511
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  14-18\, 2022\n📍 Location: Washington DC Convention Center\, USA\n⏰ Or
  iginal Deadline (AoE): 2022-02-10 23:59:59\nCategory: 数据库/数据挖
@@ -42,8 +42,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2023 Deadline
 DTSTART;TZID="UTC-12:00":20230202T235959
 DTEND;TZID="UTC-12:00":20230203T000059
-DTSTAMP:20250707T152211Z
-UID:f6d8debb-e4e5-4129-bdf2-491b27e8dbbf
+DTSTAMP:20250709T152405Z
+UID:f28eb362-69ae-4057-9eee-7b42196f6237
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  6-10\, 2023\n📍 Location: Long Beach Convention & Entertainment Center\,
   USA\n⏰ Original Deadline (AoE): 2023-02-02 23:59:59\nCategory: 数据
@@ -57,8 +57,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240201T235959
 DTEND;TZID="UTC-12:00":20240202T000059
-DTSTAMP:20250707T152211Z
-UID:215178ee-9f5b-4252-9af8-ef8b084dfcdc
+DTSTAMP:20250709T152405Z
+UID:febe86e9-6474-4314-b38e-c548094acc38
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  25-29\, 2024\n📍 Location: Barcelona\, Spain\n⏰ Original Deadline (AoE
  ): 2024-02-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)
@@ -71,8 +71,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2024 Deadline
 DTSTART;TZID="UTC-12:00":20240208T235959
 DTEND;TZID="UTC-12:00":20240209T000059
-DTSTAMP:20250707T152211Z
-UID:40bb9434-d3b4-4937-b793-9142f2569c6a
+DTSTAMP:20250709T152405Z
+UID:9ef6ec3b-5b87-4d8d-a3fb-cbe1ed62806b
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  25-29\, 2024\n📍 Location: Barcelona\, Spain\n⏰ Original Deadline (AoE
  ): 2024-02-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)
@@ -85,8 +85,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Abstract Deadline [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20240801T235959
 DTEND;TZID="UTC-12:00":20240802T000059
-DTSTAMP:20250707T152211Z
-UID:728a75e8-a976-47ba-ab95-d00ae7d58923
+DTSTAMP:20250709T152405Z
+UID:5f07f5f5-cec5-4525-9c85-74015237155d
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2024-08-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -99,8 +99,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Deadline [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20240808T235959
 DTEND;TZID="UTC-12:00":20240809T000059
-DTSTAMP:20250707T152211Z
-UID:7d8dc361-b310-406c-96e2-00eaf60ab280
+DTSTAMP:20250709T152405Z
+UID:e5d2d362-6274-4ebf-8475-6e3b1e4a14e8
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2024-08-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -113,8 +113,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Abstract Deadline [2nd round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20250203T235959
 DTEND;TZID="UTC-12:00":20250204T000059
-DTSTAMP:20250707T152211Z
-UID:12428529-5afb-46fe-98c8-5180dc3334d7
+DTSTAMP:20250709T152405Z
+UID:02afb0c9-fcd2-4402-a09b-fd6504ca6d1b
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2025-02-03 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -127,8 +127,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2025 Deadline [2nd round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20250210T235959
 DTEND;TZID="UTC-12:00":20250211T000059
-DTSTAMP:20250707T152211Z
-UID:48e9f30a-79dc-4d9d-ba42-619f3b976ef7
+DTSTAMP:20250709T152405Z
+UID:6f99be87-b38d-4f50-b4a2-1691fa2b8894
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
  3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
  oE): 2025-02-10 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
@@ -141,8 +141,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2026 Abstract Deadline [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20250724T235959
 DTEND;TZID="UTC-12:00":20250725T000059
-DTSTAMP:20250707T152211Z
-UID:a39ad06d-e5f8-404e-b068-6e24edd42dda
+DTSTAMP:20250709T152405Z
+UID:2d3229e4-e897-4e26-b1d2-550f6552a150
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: TBD\n
  📍 Location: TBD\, Korea\n⏰ Original Deadline (AoE): 2025-07-24 23:59:
  59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, 
@@ -155,8 +155,8 @@ BEGIN:VEVENT
 SUMMARY:SIGKDD 2026 Deadline [1st round of 2 total rounds]
 DTSTART;TZID="UTC-12:00":20250731T235959
 DTEND;TZID="UTC-12:00":20250801T000059
-DTSTAMP:20250707T152211Z
-UID:238e7d97-9c6d-4037-a5a7-ddf74d6d1502
+DTSTAMP:20250709T152405Z
+UID:6f08d89c-d162-41b4-92b7-f12ba7a35e1c
 DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: TBD\n
  📍 Location: TBD\, Korea\n⏰ Original Deadline (AoE): 2025-07-31 23:59:
  59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, 
@@ -169,8 +169,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2022 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20210830T235959
 DTEND;TZID="UTC-12:00":20210831T000059
-DTSTAMP:20250707T152211Z
-UID:91628a33-75a4-494e-8eb3-8d98c9450f13
+DTSTAMP:20250709T152405Z
+UID:58b77077-71e4-42f0-830b-8062e07a7493
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 22 - March 1\, 2022\n📍 Location: Vancouver\, British Columbia\, Ca
  nada\n⏰ Original Deadline (UTC-12): 2021-08-30 23:59:59\nCategory: 人
@@ -183,8 +183,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2022 Deadline
 DTSTART;TZID="UTC-12:00":20210908T235959
 DTEND;TZID="UTC-12:00":20210909T000059
-DTSTAMP:20250707T152211Z
-UID:7054664e-e328-4ab7-a0c7-6a55bd3b74ac
+DTSTAMP:20250709T152405Z
+UID:5bd11444-5d04-4484-8453-7a57b0dc0a9e
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 22 - March 1\, 2022\n📍 Location: Vancouver\, British Columbia\, Ca
  nada\n⏰ Original Deadline (UTC-12): 2021-09-08 23:59:59\nCategory: 人
@@ -197,8 +197,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2023 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20220808T235959
 DTEND;TZID="UTC-12:00":20220809T000059
-DTSTAMP:20250707T152211Z
-UID:f4675f4e-d77e-4092-b935-610c0b0cdb77
+DTSTAMP:20250709T152405Z
+UID:61d309ac-3e18-47c4-9b65-642d94fa3dcd
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 7 - February 14\, 2023\n📍 Location: Washington\, DC\, USA\n⏰ Ori
  ginal Deadline (UTC-12): 2022-08-08 23:59:59\nCategory: 人工智能 (AI)\
@@ -211,8 +211,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2023 Deadline
 DTSTART;TZID="UTC-12:00":20220815T235959
 DTEND;TZID="UTC-12:00":20220816T000059
-DTSTAMP:20250707T152211Z
-UID:19c5b045-40b5-4cea-a8c3-4625c741f45b
+DTSTAMP:20250709T152405Z
+UID:d290a630-c0c2-484a-bd86-806b2d9c3ece
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 7 - February 14\, 2023\n📍 Location: Washington\, DC\, USA\n⏰ Ori
  ginal Deadline (UTC-12): 2022-08-15 23:59:59\nCategory: 人工智能 (AI)\
@@ -225,8 +225,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2024 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20230808T235959
 DTEND;TZID="UTC-12:00":20230809T000059
-DTSTAMP:20250707T152211Z
-UID:2a13aed5-45d9-4e93-987e-e10c40b6671b
+DTSTAMP:20250709T152405Z
+UID:a69817d2-320b-43e4-8362-d00af778694d
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 20 - February 27\, 2024\n📍 Location: Vancouver\, British Columbia\
  , Canada\n⏰ Original Deadline (UTC-12): 2023-08-08 23:59:59\nCategory: 
@@ -239,8 +239,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2024 Deadline
 DTSTART;TZID="UTC-12:00":20230815T235959
 DTEND;TZID="UTC-12:00":20230816T000059
-DTSTAMP:20250707T152211Z
-UID:73cf5684-3830-45b4-ab5e-fa1a18744094
+DTSTAMP:20250709T152405Z
+UID:dc9427c0-0903-495d-8691-6add0ed8ca6a
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 20 - February 27\, 2024\n📍 Location: Vancouver\, British Columbia\
  , Canada\n⏰ Original Deadline (UTC-12): 2023-08-15 23:59:59\nCategory: 
@@ -253,8 +253,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2025 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20240807T235959
 DTEND;TZID="UTC-12:00":20240808T000059
-DTSTAMP:20250707T152211Z
-UID:2bfc9726-5cf1-4d2c-824b-be1356100958
+DTSTAMP:20250709T152405Z
+UID:c147a602-c3e7-40d3-8ed5-2ea387435fbf
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 25 - March 4\, 2025\n📍 Location: PHILADELPHIA\, PENNSYLVANIA\, USA
  \n⏰ Original Deadline (UTC-12): 2024-08-07 23:59:59\nCategory: 人工智
@@ -267,8 +267,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2025 Deadline
 DTSTART;TZID="UTC-12:00":20240815T235959
 DTEND;TZID="UTC-12:00":20240816T000059
-DTSTAMP:20250707T152211Z
-UID:6172d169-3965-4ba9-b271-166b0b2aadeb
+DTSTAMP:20250709T152405Z
+UID:5e7c684e-4f49-4218-b664-2c8c5b643bcd
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Febr
  uary 25 - March 4\, 2025\n📍 Location: PHILADELPHIA\, PENNSYLVANIA\, USA
  \n⏰ Original Deadline (UTC-12): 2024-08-15 23:59:59\nCategory: 人工智
@@ -281,8 +281,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2026 Abstract Deadline
 DTSTART;TZID="UTC-12:00":20250725T235959
 DTEND;TZID="UTC-12:00":20250726T000059
-DTSTAMP:20250707T152211Z
-UID:a8ce9fbc-bc7d-4135-9836-a95d274e806b
+DTSTAMP:20250709T152405Z
+UID:0231b240-ce75-4f9f-abe0-a096aae8a2ed
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Janu
  ary 20 - 27\, 2026\n📍 Location: Singapore EXPO\n⏰ Original Deadline (
  UTC-12): 2025-07-25 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*
@@ -295,8 +295,8 @@ BEGIN:VEVENT
 SUMMARY:AAAI 2026 Deadline
 DTSTART;TZID="UTC-12:00":20250801T235959
 DTEND;TZID="UTC-12:00":20250802T000059
-DTSTAMP:20250707T152211Z
-UID:b50527bf-f6dd-4a13-9704-e036a4a986f9
+DTSTAMP:20250709T152405Z
+UID:0f590bd9-d1bc-4a1b-bd90-67ea48fef484
 DESCRIPTION:AAAI Conference on Artificial Intelligence\n🗓️ Date: Janu
  ary 20 - 27\, 2026\n📍 Location: Singapore EXPO\n⏰ Original Deadline (
  UTC-12): 2025-08-01 23:59:59\nCategory: 人工智能 (AI)\nCCF A\, CORE A*
